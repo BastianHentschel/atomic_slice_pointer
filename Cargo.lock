@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "atomic_slice_pointer"
+name = "atomic-slice-pointer"
 version = "0.1.0"

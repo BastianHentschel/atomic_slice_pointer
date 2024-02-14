@@ -1,10 +1,8 @@
 [package]
-name = "atomic_slice_pointer"
+name = "atomic-slice-pointer"
 authors = ["Bastian Hentschel <bastianhentschel@pm.me>"]
 version = "0.1.0"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-[lib]
-name = "atomic_slice_pointer"
 [dependencies]
